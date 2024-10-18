@@ -65,4 +65,4 @@ The chatbot interface allows users to type their queries, which are sent to the 
 
 ## Checkpoint
 checkpoint is available on drive .
-Link : 
+Link : https://drive.google.com/drive/search?q=ChatbotCheckpoint
