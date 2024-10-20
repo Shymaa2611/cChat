@@ -5,6 +5,10 @@ cChat is a conversational AI chatbot designed for technical customer support, bu
 ![Demo](media/demo.gif)
 
 
+## Advance cChat (Voice Chat)
+
+![Demo](media/advancedemo.gif)
+
 ## Features
 Provides real-time customer support via a chatbot interface.
 Fine-tuned GPT-2 model for better technical domain-specific responses.
