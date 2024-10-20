@@ -15,6 +15,7 @@ Fine-tuned GPT-2 model for better technical domain-specific responses.
 Easy-to-use interface built with HTML, CSS, and JavaScript.
 API backend powered by FastAPI for efficient request handling.
 Jinja templating for dynamic content rendering.
+Whisper Openai v3 for speech to text .
 
 ## Technologies Used
 GPT-2: A transformer-based language model fine-tuned for customer support tasks.
