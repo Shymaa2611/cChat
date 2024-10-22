@@ -24,11 +24,10 @@ def get_answer(query: str):
     return response
 
 def speech2text(audio_path: str) -> str:
-    #pipe = pipeline("automatic-speech-recognition", model="openai/whisper-large")
-    result ="How to clean and maintain the Shredder?"
-    # result=pipe(audio_path)
-    # return result["text"]
-    return result
+    pipe = pipeline("automatic-speech-recognition", model="openai/whisper-large")
+    #result ="How to clean and maintain the Shredder?"
+    result=pipe(audio_path)
+    return result["text"]
 
 
 @app.post('/get_voice_answer/')
