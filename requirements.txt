@@ -2,7 +2,6 @@ python
 fastapi
 autocorrect
 transformers
-re
 nltk
 uvicorn
-string
+torch
